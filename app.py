@@ -1,25 +1,4 @@
-from todo import Todo
 from todo_list import TodoList
-
-
-# todo_list = TodoList("something")
-
-# new_stuff = {"name": "one", "description": "desc"} 
-# newer_stuff = {"name": "two", "description": "blah"}
-
-# a_list = [new_stuff, newer_stuff]
-
-# todo_list.add_mult_todos(*a_list)
-
-# todo_list.print_todos()
-# print()
-# print(todo_list.change_status("one"))
-# print()
-# todo_list.print_todos()
-# print()
-# print(todo_list.remove_todo("one"))
-# print()
-# todo_list.print_todos()
 
 new_list = TodoList("New To Do List")
 
